@@ -23,10 +23,20 @@
     "gatsby-plugin-emotion": "6.0.0",
     "gatsby-plugin-image": "1.0.1",
     "gatsby-plugin-mdx": "2.0.1",
+    "gatsby-plugin-mdx-embed": "0.0.19",
+    "gatsby-plugin-react-helmet": "4.1.0",
     "gatsby-plugin-sharp": "3.0.1",
+    "gatsby-remark-images": "4.1.0",
+    "gatsby-remark-prismjs": "4.1.0",
     "gatsby-source-filesystem": "3.0.0",
+    "gatsby-source-rss-feed": "1.2.2",
     "gatsby-transformer-sharp": "3.0.0",
+    "mdx-embed": "0.0.19",
+    "prismjs": "1.23.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-helmet": "6.1.0",
+    "tailwindcss": "2.0.3",
+    "twin.macro": "2.3.0"
   }
 }
